@@ -26,7 +26,7 @@ The second one then is really when you start thinking about collaboration with o
 Then in the third and final course, it's like we're really going to take that to the professional software developer level where you can understand the full workflow of building and launching applications from the design phase with design patterns and the famous gang of four patterns through things like data serialization and database management. That's really the whole idea of this, to help you start as an individual developer, go on to working in a team, and then go on to really being able to deploy professional solutions.
 
 
-1. [Introduction to Generative AI for Software Development](#1)
+1. [Introduction to Generative AI for Software Development](#1) 
 
 <a name="1"></a>
 ## Introduction to Generative AI for Software Development
