@@ -2,8 +2,6 @@
 
 This repository documents my learning from the course **<a href="https://www.deeplearning.ai/courses/generative-ai-for-software-development/">Generative AI for Software Development</a>** by Laurence Moroney and deeplearning.ai. This repo contains the following directories and each one contains the pertinent files including README and Jupyter Notebook files: 
  
-1. [Introduction to Generative AI for Software Development](#1)
-
 Some introductory points:
 - This series of courses is about how to **use** generative AI and not about writing generative AI application
 - Generative AI is a coding companion buddy to help us along
@@ -24,6 +22,9 @@ So the first course is really for you as an individual software developer. It's 
 The second one then is really when you start thinking about collaboration with other people as a software engineer. You're going to work with testers, you're going to work with people who do documentation, you're going to be working with people who give you dependencies. They may be internal to your company, or it might be third party dependencies like Python ones. And we're going to work through the skills of you being able to use an LLM to just be better at doing all of that. 
 
 Then in the third and final course, it's like we're really going to take that to the professional software developer level where you can understand the full workflow of building and launching applications from the design phase with design patterns and the famous gang of four patterns through things like data serialization and database management. That's really the whole idea of this, to help you start as an individual developer, go on to working in a team, and then go on to really being able to deploy professional solutions.
-  
+
+
+1. [Introduction to Generative AI for Software Development](#1)
+
 <a name="1"></a>
 ## Introduction to Generative AI for Software Development
