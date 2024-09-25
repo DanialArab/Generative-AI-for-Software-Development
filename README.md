@@ -4,6 +4,8 @@ This repository documents my learning from the course **<a href="https://www.dee
  
 1. [Introduction to Generative AI for Software Development](#1)
 
+Some introductory points:
+- 
 
 <a name="1"></a>
 ## Introduction to Generative AI for Software Development
