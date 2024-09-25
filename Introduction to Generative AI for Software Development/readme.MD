@@ -9,3 +9,5 @@
 ![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/different_algos.png)
 
 ![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/LLM.png)
+
+![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/keys_in_transformers.png)
