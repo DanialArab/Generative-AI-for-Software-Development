@@ -16,3 +16,5 @@
 
 ### Pair-coding with an LLM
 
+![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/small_nuances.png)
+
