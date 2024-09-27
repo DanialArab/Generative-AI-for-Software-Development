@@ -20,3 +20,5 @@ Notice how I adjusted the prompts slightly for each language, reflecting typical
 
 ![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/small_nuances.png)
 
+![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/context_in_prompting.png)
+
