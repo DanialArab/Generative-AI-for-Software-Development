@@ -29,4 +29,6 @@ Three things to improve results:
 - giving feedback to the LLM
 - assigning the LLM a role: When you interact with an AI like ChatGPT, the way you frame your prompts plays a crucial role in shaping the AI's responses.
 
- The role you choose influences how the AI structures its response, tailoring its language and content to fit the expected knowledge and behavior of that role.
+The role you choose influences how the AI structures its response, tailoring its language and content to fit the expected knowledge and behavior of that role.
+
+Combining roles can allow the model to create responses that are not only complex, but also incredibly insightful.
