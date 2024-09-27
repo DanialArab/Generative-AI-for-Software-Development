@@ -23,3 +23,8 @@ Notice how I adjusted the prompts slightly for each language, reflecting typical
 ![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/context_in_prompting.png)
 
 Adding context can dramatically change the model's output. 
+
+Three things to improve results:
+- iterative prompting
+- giving feedback to the LLM
+- assigning the LLM a role: When you interact with an AI like ChatGPT, the way you frame your prompts plays a crucial role in shaping the AI's responses.
