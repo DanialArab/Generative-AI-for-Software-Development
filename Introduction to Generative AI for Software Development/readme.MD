@@ -32,3 +32,5 @@ Three things to improve results:
 The role you choose influences how the AI structures its response, tailoring its language and content to fit the expected knowledge and behavior of that role.
 
 Combining roles can allow the model to create responses that are not only complex, but also incredibly insightful.
+
+![](https://github.com/DanialArab/images/blob/main/Generative%20AI%20for%20Software%20Development/multiple_roles.png)
